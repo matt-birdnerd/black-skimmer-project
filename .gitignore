@@ -1,0 +1,5 @@
+# Ignore the data files
+data_files/
+
+# Ignore my env variables
+*.env
